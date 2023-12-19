@@ -54,7 +54,7 @@ Cloud DataFlow
 
 Apache Spark
 
-Week 3. Model Management and Delivery
+# Week 3. Model Management and Delivery
 Experiment Tracking and Management:
 Tracking
 
